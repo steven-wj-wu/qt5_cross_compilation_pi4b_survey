@@ -226,8 +226,8 @@ QT_QPA_PLATFOMRTHEME=qt5ct
 XAUTHORITY=/home/steven/.Xauthrity
 XDG_SESSION_TYPE=x11
 ```
-->select Fetch Device Enviroment
-3.   select Edit in left menu of QT creator->select pro file -> change target.path to the path want to put in Pi
+->select Fetch Device Enviroment  
+3.   select Edit in left menu of QT creator->select pro file -> change target.path to the path want to put in Pi  
 4.   Run the project and it should excute the project directly in Pi
 
 

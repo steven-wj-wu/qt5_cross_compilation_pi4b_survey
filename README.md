@@ -6,7 +6,7 @@ The Enviroment settings details are listed below. This repo is mainly used for Q
 ## 1. Reference
 Most of the command and enviroments settings are from the tutorials below:
 >1.Command and step by step video:<https://github.com/PhysicsX/QTonRaspberryPi/tree/main/QtRaspberryPi5.14.2>  
->2.Detail implementation:<https://github.com/UvinduW/Cross-Compiling-Qt-for-Raspberry-Pi-4>  
+>2.Implementation details:<https://github.com/UvinduW/Cross-Compiling-Qt-for-Raspberry-Pi-4>  
 >3.Chinese Tutorial:<https://www.jianshu.com/p/0b86b42eed71>  
   
   

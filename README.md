@@ -218,7 +218,8 @@ export DISPLAY=:0.0
 export XAUTHORITY=/home/steven/.Xauthrity
 export XDG_SESSION_TYPE=x11
 ```
-with these settings, the release file can be excuted by ssh command. To release the file to Pi directly, should change the settings in QT project.  
+with these settings, the release file can be excuted by ssh command from PC.  
+To release the file to Pi directly, should change the settings in QT project.  
 1.  select Projects in left menu of QT creator.
 2.  select Details of Run Enviroments -> select Batch Edit and input below commands:  
 ```

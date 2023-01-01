@@ -207,8 +207,9 @@ In QT Creator:
 After these settings create a new project
 
 In new porject:  
-Choose Release mode and compile，the release file is ready to excute in Pi, Can use scp to pass the release file to pi.
-if want to release the file directly in Pi,can follow the steps below:  
+Choose Release mode and compile，the release file is ready to excute in Pi. You can use scp to pass the release file to pi.  
+
+If you want to release the file directly in Pi,can follow the steps below:  
 
 1.set the path below(**On Pi**):
 ```

@@ -1,5 +1,5 @@
 # qt5_cross_compilation_pi4b_survey
-This repo is build for cross compilation tutorial with x86 linux-ubuntu to arm Pi-OS in QT application.  
+This repo is build for cross compilation tutorial with x64 linux-ubuntu to arm Pi-OS in QT application.  
 The Enviroment settings details are listed below. This repo is mainly used for QT 5.15 to Pi 4 cross compilation. 
 
 
